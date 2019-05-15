@@ -17,5 +17,6 @@ end
 
 
 dog1 = Dog.new("Fido")
+dog2 = Dog.new("Rex")
 Dog.all
 
