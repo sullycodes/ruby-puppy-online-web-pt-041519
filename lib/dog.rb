@@ -15,4 +15,7 @@ class Dog
 
 end
 
+
+dog1 = Dog.new("Fido")
 Dog.all
+
